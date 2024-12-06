@@ -1,7 +1,6 @@
-## Contents inside the folder:
+## Python scripts inside the folder:
 
 merge.py
-
 to_run.py
 
 ### Note:
